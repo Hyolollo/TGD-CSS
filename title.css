@@ -1,0 +1,14 @@
+<header>
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-4">
+            <a href="/"><img src="https://cdn.discordapp.com/attachments/521027479528275968/586678995202998274/76865526da9a033c.png" alt=""></a>
+          </div>
+          <div class="col-xs-8" align="right">
+            <form action="/search" method="get" id="right-search-form">
+              <input type="text" placeholder="트게더 검색" value="" id="right-search-input" name="q">
+              <button type="submit" id="right-search-btn"><i class="fa fa-search"></i></button>
+            </form>
+          </div>
+        </div>
+      </div>
